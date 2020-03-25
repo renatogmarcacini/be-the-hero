@@ -1,5 +1,5 @@
 # be-the-hero
-Aplicativo Be The Hero criado no evento Semana OmniStack 11 utilizando ReactJS/Native e NodeJS
+Aplicativo Be The Hero criado no evento Semana OmniStack 11
 
 Técnologias utilizadas
 Front-End:
