@@ -24,7 +24,7 @@ export default function Incident() {
         }
         
         if(total > 0 && incidents.length == total){
-            return;
+            return; //Evita requisitar mais casos quando atingir o total recebido pelo banco
         } 
 
         setLoading(true);
